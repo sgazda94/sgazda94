@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sgazda94
+- 👋 Hi, I’m Szymon Gazda
 - 👀 I’m interested in Web Development / Web3 / Linux
 - 🌱 I’m currently learning: Django / Python / CSS / HTMX
 - 💡 Things I want to learn: JavaScript 

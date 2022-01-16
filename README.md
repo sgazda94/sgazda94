@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development / Web3
 - 🌱 I’m currently learning: Django / Python / CSS / HTMX
 - 💡 Things I want to learn: JavaScript 
-- 📫 How to reach me: konktakt@sgazda.pl
+- 📫 How to reach me: kontakt@sgazda.pl
 
 <!---
 sgazda94/sgazda94 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

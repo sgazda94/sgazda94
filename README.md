@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Szymon Gazda
 - 👀 I’m interested in Web Development / Web3
-- 🌱 I’m currently learning: Django / Python / CSS / HTMX
+- 🌱 I’m currently learning: Django / Python / Django Rest Framework
 - 💡 Things I want to learn: JavaScript / TypeScript / Blockchain
 - 📫 How to reach me: kontakt@sgazda.pl
 
